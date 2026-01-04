@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 8ec932cc76f53ee0cd4d36bea792ab2e44309fd2
 ## Getting Started
 
 First, run the development server:
@@ -20,4 +16,5 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
 ## Mrthn Development
